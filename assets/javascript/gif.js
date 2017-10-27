@@ -31,7 +31,7 @@ $(document).ready(function(){
 			        
 			        var animalImage = $("<img>");
 			        
-			        animalImage.attr("src", playImage);
+			        animalImage.attr("src", stillImage);
 			        animalImage.attr("stillSrc",stillImage);
 			        animalImage.attr("playSrc",playImage);
 			        animalImage.addClass("gifClass");
